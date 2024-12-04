@@ -2,9 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\QUANLYBANHANG_FOOD",
+    "\\QUANLYBANHANG_FOOD\\Controllers",
+    "\\QUANLYBANHANG_FOOD\\Views",
     "\\QUANLYBANHANG_FOOD\\Views\\Home",
     "\\QUANLYBANHANG_FOOD\\Views\\login"
   ],
-  "SelectedNode": "\\QUANLYBANHANG_FOOD\\Controllers",
+  "SelectedNode": "\\QUANLYBANHANG_FOOD\\Web.config",
   "PreviewInSolutionExplorer": false
 }
